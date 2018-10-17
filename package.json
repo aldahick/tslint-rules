@@ -1,0 +1,19 @@
+{
+  "name": "@aldahick/tslint-rules",
+  "version": "0.0.1",
+  "description": "Linting rules for personal projects",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldahick/tslint-rules.git"
+  },
+  "author": "Alex Hicks <alex@alexhicks.net> (https://alexhicks.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aldahick/tslint-rules/issues"
+  },
+  "homepage": "https://github.com/aldahick/tslint-rules#readme",
+  "dependencies": {
+    "tslint-react": "^3.6.0",
+    "tslint-sonarts": "^1.8.0"
+  }
+}
