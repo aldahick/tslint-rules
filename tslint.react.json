@@ -37,6 +37,7 @@
     "no-duplicate-super": true,
     "jsx-no-lambda": false,
     "jsx-boolean-value": false,
+    "no-duplicate-string": false,
     "no-duplicate-variable": [true,
       "check-parameters"
     ],
